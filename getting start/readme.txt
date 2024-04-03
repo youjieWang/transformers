@@ -1,0 +1,1 @@
+这个是一个关于transformers基础教程的文件夹，你可以从该文件夹中快速开始你的transformers之旅，该教程可以让你快速的上手transformers的相关知识，包括pipline，tokenizer，datasets，model，eval，trainer等
