@@ -6,6 +6,7 @@
 <ul>
 <li>2024/4/3 上传原始的教程代码，包括transformers的基础使用，简单的实战项目，高效微调实战</li>
 <li>2024/4/19 更新关于accelerate 分布式训练代码</li>
+<li>2024/6/16 更新了关于使用accelerate进行分布式训练的脚本模板，在模板中可以定义模型，优化器，修改数据类以及训练简单的脚本，即可实现模型的训练</li>
 <li>后续待更新：</li>
 <li>低精度训练</li>
 <li>deepseed 分布式训练</il>
@@ -17,7 +18,8 @@
 01-快速开始（01-getting started）<br/>
 02-参数高效微调（02-PEFT）<br/>
 03-分布式训练（03-distribute training）<br/>
-04-低精度训练（04-kbit training）<br/>
+04-AIGC分布式训练项目脚本模板（05-item demo）<br/>
+05-低精度训练（05-kbit training）<br/>
 
 
 ## 个人知乎
